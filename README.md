@@ -90,10 +90,4 @@ Determining the best number of clusters.
 🔹 Build a **recommendation engine based on segment behavior analysis**.  
 
 ---
-
-### **🔗 GitHub Repository**  
-🔗 **[View Full Project Here](https://github.com/your-github-username/customer-segmentation)**  
-
----
-
-📩 **Let’s Connect!** If you’re interested in discussing **clustering, machine learning, or data-driven strategies**, feel free to reach out! 🚀  
+ 
